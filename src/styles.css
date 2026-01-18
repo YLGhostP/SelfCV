@@ -1,4 +1,4 @@
-/* ====== 顏色：依你提供圖片風格做的近似值 ====== */
+/* ====== 顏色：依提供圖片風格做的近似值 ====== */
 :root{
   --bg: #f4f1ea;         /* 米白底 */
   --card: #ffffff;       /* 內容底 */
@@ -297,3 +297,4 @@ a:hover{ text-decoration: underline; }
   .card{ box-shadow:none; border: none; border-radius: 0; }
   .toolbar, #btnToggleProjects{ display:none !important; }
 }
+
