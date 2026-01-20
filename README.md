@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ian]
+# 👋 Hi, I'm [Ian] [CV](https://ylghostp.github.io/SelfCV/)
 
 I am an engineering student with a strong interest in **system-level problem solving**.  
 Rather than focusing on a single technology, I enjoy **designing and integrating practical systems** that address real-world needs.
